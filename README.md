@@ -1,0 +1,1 @@
+# Data_migration_from_On-prem_to_Azure_Synapse_analytics_using_Azure
